@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1716669905 source:h:\programing\git\rivssb\cap 2\ejersicios de capitulo 2\ejercicio 2.13\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
